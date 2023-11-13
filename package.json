@@ -1,0 +1,21 @@
+{
+  "name": "patroclo",
+  "displayName": "Patroclo",
+  "description": "Start theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "patroclo",
+        "uiTheme": "hc-black",
+        "path": "./themes/patroclo-color-theme.json"
+      }
+    ]
+  }
+}
